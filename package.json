@@ -1,6 +1,7 @@
 {
-	"author": "Jane Doe",
+	"author": "Jim Lam",
 	"description": "Mein erstes Backend",
+	"keywords": ["freecodecamp", "not german btw", "not anything"],
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
