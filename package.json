@@ -1,12 +1,17 @@
 {
 	"author": "Jim Lam",
 	"description": "Mein erstes Backend",
-	"keywords": ["freecodecamp", "not german btw", "not anything"],
+	"keywords": [
+		"freecodecamp",
+		"not german btw",
+		"not anything"
+	],
 	"license": "MIT",
 	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.14.0"
 	},
 	"main": "server.js",
 	"scripts": {
